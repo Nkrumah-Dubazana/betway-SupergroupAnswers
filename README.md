@@ -1,9 +1,8 @@
-```markdown
 # Problem-Solving Test Submission: Questions 14–17
 
 Hello Team,
 
-Please find below my submission for the problem-solving test exercises covering questions 14 to 17. Each exercise has been implemented in Python.  The solutions are provided as separate scripts within this repository.
+Please find below my submission for the problem-solving test exercises covering questions 14 to 17. Each exercise has been implemented in Python. The solutions are provided as separate scripts within this repository.
 
 Repository URL: [https://github.com/Nkrumah-Dubazana/betway-SupergroupAnswers.git](https://github.com/Nkrumah-Dubazana/betway-SupergroupAnswers.git)
 
@@ -67,6 +66,6 @@ Each script is self-contained and includes comments to help understand the logic
 
 I have carefully reviewed and completed the exercises as required. I trust that the solutions provided demonstrate my problem-solving abilities and attention to detail. Thank you for the opportunity, and I look forward to the next steps in the process.
 
-Happy Days,
+Happy Days,  
+**Nkrumah Dubazana**
 
-Nkrumah Dubazana
